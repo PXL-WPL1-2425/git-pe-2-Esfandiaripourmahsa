@@ -1,14 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.pagina3 { margin-top: 20px; }
+
 .navigatie{
+    margin-top: 20px;
     display: flex;
     width: 100%;
-    justify-content: space-around
+    justify-content: space-around;
 
 }
 
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    display: inline-block;
 
-.pagina2 { margin-top: 20px; }
+}
+nav ul li a {
+    display:flex;
+    text-decoration: none;
+    color: black;
+    padding: 20px 10px;
+    font-size: 14pt;
 
+}
 
-.pagina3 { margin-top: 20px; }
 
 
