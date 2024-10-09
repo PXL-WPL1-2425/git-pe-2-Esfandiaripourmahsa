@@ -1,0 +1,12 @@
+.navigatie{
+    display: flex;
+    width: 100%;
+    justify-content: space-around
+
+}
+.pagina1{margin-top: 20px;}
+
+.pagina2 { margin-top: 20px; }
+
+
+.pagina3 { margin-top: 20px; }
