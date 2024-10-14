@@ -21,11 +21,11 @@ header{
 .navigatie{
     position: relative;
     z-index: 1;
-    margin-top: 20px;
+    margin-top: 10px;
     display: flex;
     width: 100%;
     justify-content: space-around;
-    padding: 20px;
+    padding: 10px;
 }
 .pagina3{
     margin-top: 20px;
